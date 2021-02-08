@@ -183,7 +183,7 @@ public class methods {
 		System.out.println("Loading 100%");
 		Thread.sleep(200);
 
-		System.out.println("\nTerminated Successfully!\n");
+		System.out.println("\nLoaded Successfully!\n");
 
 
 		Scanner ss2 = new Scanner(System.in);
